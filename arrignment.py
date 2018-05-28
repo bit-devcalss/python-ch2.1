@@ -33,6 +33,14 @@ print(type(a))
 a='hello'
 print(type(a))
 
+print("aaaaa")
+
+
+
+
+
+
+
 
 
 
